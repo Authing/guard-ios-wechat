@@ -30,7 +30,7 @@
 		A860E9E12851F4BF008C24F2 /* WechatAuthSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = A860E9DD2851F4BF008C24F2 /* WechatAuthSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A860E9E22851F4BF008C24F2 /* libWeChatSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A860E9DE2851F4BF008C24F2 /* libWeChatSDK.a */; };
 		A860E9E52851F56C008C24F2 /* Guard in Frameworks */ = {isa = PBXBuildFile; productRef = A860E9E42851F56C008C24F2 /* Guard */; };
-		A8AF688F2852162D00F9A445 /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = A8AF688E2852161F00F9A445 /* libc++.tbd */; };
+		A8AF68962853018900F9A445 /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = A8AF688E2852161F00F9A445 /* libc++.tbd */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,7 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A8AF688F2852162D00F9A445 /* libc++.tbd in Frameworks */,
+				A8AF68962853018900F9A445 /* libc++.tbd in Frameworks */,
 				A860E9E52851F56C008C24F2 /* Guard in Frameworks */,
 				A860E9E22851F4BF008C24F2 /* libWeChatSDK.a in Frameworks */,
 			);
