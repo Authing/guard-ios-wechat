@@ -9,8 +9,8 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "WeCom",
-            targets: ["WeCom"])
+            name: "Wechat",
+            targets: ["Wechat"])
     ],
     dependencies: [
     ],
