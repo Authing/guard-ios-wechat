@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Wechat",
-            url: "https://github.com/Authing/guard-ios-wechat/releases/download/1.0.2/Wechat.xcframework.zip",
+            url: "https://github.com/Authing/authing-binary/tree/main/guard-ios-wechat/1.0.2/Wechat.xcframework.zip",
             checksum: "f75ed2933f9e0bad9ab6f497b4835feeb3069eb11bd2faef2193908fd780d98a"
         )
     ]
